@@ -99,7 +99,8 @@ All charts and KPIs update dynamically based on slicer selection, allowing flexi
 ---
 
 ## 📷 Dashboard Preview
-*(Insert dashboard screenshot here)*
+
+<img width="1838" height="716" alt="Screenshot" src="https://github.com/user-attachments/assets/e0d87a53-9a6f-4640-b04d-8498d1c1fd01" />
 
 ---
 
